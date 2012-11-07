@@ -4,3 +4,4 @@ gen/
 doc/
 .settings/
 res/values/settings.xml
+/*.properties
